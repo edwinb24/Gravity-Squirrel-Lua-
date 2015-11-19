@@ -1,0 +1,10 @@
+settings = {
+iphone = {
+plist = {
+UIApplicationExitsOnSuspend = true,
+UIAppFonts = {
+"OleoScript-Bold.ttf"
+}
+},
+},
+}
